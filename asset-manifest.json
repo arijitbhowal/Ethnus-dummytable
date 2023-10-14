@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ethnus-dummytable/static/css/main.6a9c6e3d.css",
+    "main.js": "/Ethnus-dummytable/static/js/main.0761feb6.js",
+    "static/js/787.2e4385c7.chunk.js": "/Ethnus-dummytable/static/js/787.2e4385c7.chunk.js",
+    "index.html": "/Ethnus-dummytable/index.html",
+    "main.6a9c6e3d.css.map": "/Ethnus-dummytable/static/css/main.6a9c6e3d.css.map",
+    "main.0761feb6.js.map": "/Ethnus-dummytable/static/js/main.0761feb6.js.map",
+    "787.2e4385c7.chunk.js.map": "/Ethnus-dummytable/static/js/787.2e4385c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a9c6e3d.css",
+    "static/js/main.0761feb6.js"
+  ]
+}
